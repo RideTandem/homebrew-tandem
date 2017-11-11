@@ -1,4 +1,8 @@
 # homebrew-tandem
 
-Hoembrew tap for Tandem.app
+Homebrew tap for Tandem.app
+
+## Usage
+
+`brew cask install ridetandem/tap/tandem`
 
