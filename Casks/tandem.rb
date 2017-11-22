@@ -1,6 +1,6 @@
 cask 'tandem' do
-  version '0.2.0'
-  sha256 'd1112a3be04b699ac3a036ebb3f0e01ad4c43a06abc201df99fdb7a3ad3424f8'
+  version '0.2.1'
+  sha256 'c8822453ee6a1af47e4db8cde8b62cc00f1f5453c219ba6d4c573cece0ae89ac'
 
   url "https://github.com/RideTandem/tandem-releases/releases/download/v#{version}/Tandem-#{version}.dmg"
   name 'Tandem'
